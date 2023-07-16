@@ -1,0 +1,20 @@
+{
+  "name": "cypress-image-snapshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@simonsmith/cypress-image-snapshot": "^7.0.0",
+    "@types/simonsmith__cypress-image-snapshot": "npm:@types/cypress-image-snapshot@^3.1.6"
+  },
+  "dependencies": {
+    "@percy/cypress": "^3.1.2",
+    "typescript": "^5.1.6"
+  }
+}
